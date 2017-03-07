@@ -10,11 +10,20 @@ h1{
   color: red;
   font-size: 55px;
 }
-#thirdsentence{
-  color: #2F94FF;
-  font-size: 48px;
-}
 #image{
   height: 900px;
   width: 700px;
+}
+#image-11{
+  height: 800px;
+  width: 700px;
+}
+#lionel{
+  color: blue;
+  font-size: 45px;
+
+}
+#cr7{
+  color: red;
+  font-size: 45px;
 }
